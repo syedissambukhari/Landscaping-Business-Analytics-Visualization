@@ -19,15 +19,7 @@ File: revenue_material_costs_visualization.py
 Description: A scatter plot demonstrating the relationship between total revenue, material costs, and customer satisfaction by customer type.
 Instructions: Execute the script to generate the scatter plot.
 ### How to Use
-Clone this repository to your local machine:
+#### Clone this repository to your local machine:
 
 ```bash
-
 git clone https://github.com/syedissambukhari/Landscaping-Business-Analytics-Visualization.git
-
-Navigate to the cloned directory:
-
-```bash
-
-cd Landscaping-Business-Analytics-Visualization
-Follow the specific instructions for each visualization in their respective files.
