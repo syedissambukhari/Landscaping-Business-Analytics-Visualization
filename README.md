@@ -24,6 +24,7 @@ Clone this repository to your local machine:
 ```bash
 
 git clone https://github.com/syedissambukhari/Landscaping-Business-Analytics-Visualization.git
+
 Navigate to the cloned directory:
 
 ```bash
